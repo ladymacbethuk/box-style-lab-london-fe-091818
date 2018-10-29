@@ -42,12 +42,14 @@ h4 {
   border: 1px solid #c7c71f;
   box-shadow:  -1px 1px #c7c71f, -2px 2px #c7c71f, -3px 3px #c7c71f, -4px 4px #c7c71f, -5px 5px #c7c71f;
   background-color: #dddd22;
+  background: linear-gradient(to right, #156a2b, #dddd22);
 }
 
 .dubious {
   border: 1px solid #b42121;
   box-shadow:  -1px 1px #b42121, -2px 2px #b42121, -3px 3px #b42121, -4px 4px #b42121, -5px 5px #b42121;
   background-color: #dd4444;
+  background: linear-gradient(to right, #156a2b, #dd4444);
 }
 
 .column {
